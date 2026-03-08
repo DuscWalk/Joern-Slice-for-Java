@@ -1,0 +1,6 @@
+joern-parse /home/duscwalk/javatest/project/systemds-2.1.0-rc3 --language JAVASRC --output /home/duscwalk/javatest/javaCPGs/systemds-2.1.0-rc3.cpg
+joern-parse /home/duscwalk/javatest/project/systemds-2.2.1-rc3 --language JAVASRC --output /home/duscwalk/javatest/javaCPGs/systemds-2.2.1-rc3.cpg
+joern-parse /home/duscwalk/javatest/project/systemds-3.0.0-rc2 --language JAVASRC --output /home/duscwalk/javatest/javaCPGs/systemds-3.0.0-rc2.cpg
+joern-parse /home/duscwalk/javatest/project/systemds-3.1.0-rc1 --language JAVASRC --output /home/duscwalk/javatest/javaCPGs/systemds-3.1.0-rc1.cpg
+joern-parse /home/duscwalk/javatest/project/systemds-3.2.0-rc2 --language JAVASRC --output /home/duscwalk/javatest/javaCPGs/systemds-3.2.0-rc2.cpg
+joern-parse /home/duscwalk/javatest/project/systemds-3.3.0-rc1 --language JAVASRC --output /home/duscwalk/javatest/javaCPGs/systemds-3.3.0-rc1.cpg

@@ -1,2 +1,5 @@
 dataset/
 project/
+logs/
+__pycache__/
+workspace/

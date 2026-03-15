@@ -1,11 +1,12 @@
+"""
+把 xlsx 文件转换成 json 文件，供后续的切片器使用
+"""
+
 import pandas as pd
 import json
 import os
 from pathlib import Path
-
-xlsx_dir = Path("/home/duscwalk/javatest/dataset/horusec")
-
-json_dir = Path("/home/duscwalk/javatest/jsons")
+from settings import xlsx_dir, json_dir
 
 for root, dirs, files in os.walk(xlsx_dir):
     for file in files:
